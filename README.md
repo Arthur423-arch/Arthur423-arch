@@ -10,7 +10,6 @@
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Excel" src="(https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
 
 Sou Arthur, um profissional movido pela curiosidade e pelo desejo de evoluir continuamente, com formação em Administração pela UFRJ e um foco crescente na área de dados e tecnologia. Após um período estratégico de 1 ano e meio na Austrália, onde vivenciei uma nova cultura e aperfeiçoei meu inglês, retornei ao Brasil para estar mais próximo da minha família e me posicionar para novos desafios que estejam alinhados com minha jornada de carreira.
